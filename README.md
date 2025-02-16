@@ -1,16 +1,23 @@
-## Hi there 👋
+## Ei, você aí. OI!
 
-<!--
-**DanielHReq/danielhreq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Daniel. Eu adoro tecnologia, computadores, robôs 🤖 e mais outras coisas nessa área.
+Sempre achei mágico apertar teclinhas e ver se tornar algo dinâmico em uma tela, e por isso me tornei **programador**.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏫 Minha formação:
+
+- Informática integrado ao ensino médio - _ETEC Bento Quirino_
+- Ciências da Computação - _UNESP Rio Claro (conclusão em 2025)_
+
+
+📖 Minha experiência:
+
+Grande parte de meu apredizado se deu por pequenos projetos pessoais. Dentre estes experimentei com:
+
+- Robótica
+- Microcontrolador Arduíno e Microcomputador RaspberryPI
+- Visão computacional - _OpenCV_
+- Criação de sites
+- Desenvolvimento de jogos com Unity
+- Modelagem 3D com Blender
+- Automatização Office com macros - _VBA_
